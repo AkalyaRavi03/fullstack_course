@@ -1,0 +1,31 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: azure;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+.ab{
+    text-align: center;
+
+}
+.ab input{
+    border-width: 2px;
+    border-radius: 5px;
+    border-color:black;
+    padding: 10px;
+    
+}
+button{
+    text-align: center;
+    border-radius: 5px;
+    background: white;
+    width: 107px;
+    padding:8px;
+    font-size: 15px;
+    font-weight: 200;
+
+
+}
