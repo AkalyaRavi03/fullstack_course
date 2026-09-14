@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+h1{
+    font-style: bold;
+    color: #300505;
+}
+#dob{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #300505;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #300505;
+    background-color: #300505;
+    color: white;
+}
+button:hover{
+    color: #f7f2f2;
+    background-color: #792a2a;
+}
